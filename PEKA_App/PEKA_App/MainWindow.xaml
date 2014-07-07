@@ -1,0 +1,13 @@
+﻿<Window x:Class="PEKA_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CHATEG" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="550" Width="650" ResizeMode="NoResize" Background="LightGray">    
+    <Grid>
+        <Label Content="Log:" Height="28" Margin="8,12,4,471" Name="logLabel" />
+        <Border BorderBrush="Black" BorderThickness="1" Height="240" Margin="10,38,4,237" Name="logBoxBorder">
+            <TextBlock Name="logTextBlock" Text="All the log messages would come here" Height="238" Background="White" />
+        </Border>
+        <Button Content="Enter" Margin="0, 230, 0, 0" Height="34" Width="88" Name="enterButton" Click="Enter_button_Click" />
+        <Button Content="Nahuj" Margin="0, 320, 0, 0"  Height="34" Name="exitButton" Click="Nahuj_button_Click" Width="88" />        
+    </Grid>
+</Window>

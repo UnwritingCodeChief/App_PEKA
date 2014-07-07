@@ -1,0 +1,32 @@
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\bin\Debug\PEKA_App.exe
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\bin\Debug\PEKA_App.pdb
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\MainWindow.baml
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\App.g.cs
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\PEKA_App_MarkupCompile.cache
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\PEKA_App.g.resources
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\PEKA_App.Properties.Resources.resources
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\PEKA_App.csproj.GenerateResource.Cache
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\PEKA_App.exe
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\PEKA_App.pdb
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\ErrorConnectWindow.baml
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\ErrorConnectWindow.g.cs
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\SetServerAddressWindow.baml
+C:\Users\Mikhail\AppData\Local\Temporary Projects\PEKA_App\obj\x86\Debug\SetServerAddressWindow.g.cs
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\PEKA_App.exe
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\PEKA_App.pdb
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\bin\Debug\PEKA_App.exe
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\bin\Debug\PEKA_App.pdb
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\ChatRoom.baml
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\ErrorConnectWindow.baml
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\MainWindow.baml
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\SetServerAddressWindow.baml
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\ChatRoom.g.cs
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\ErrorConnectWindow.g.cs
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\SetServerAddressWindow.g.cs
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\App.g.cs
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\PEKA_App_MarkupCompile.cache
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\PEKA_App.g.resources
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\PEKA_App.Properties.Resources.resources
+C:\Users\Mikhail\Documents\Visual Studio 2010\Projects\PEKA_App\PEKA_App\obj\x86\Debug\PEKA_App.csproj.GenerateResource.Cache

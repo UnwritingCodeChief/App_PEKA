@@ -1,0 +1,17 @@
+﻿<Window x:Class="PEKA_App.ChatRoom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat room" Height="550" Width="650" ResizeMode="NoResize" Background="LightGray">
+    <Grid>        
+        <Border BorderBrush="Black" BorderThickness="1" Height="317" HorizontalAlignment="Left" Margin="1,1,0,0" Name="messagesTextBlockBorder" VerticalAlignment="Top" Width="450">
+            <TextBlock Name="messagesTextBlock" Background="White" Text="All the messages would come here" VerticalAlignment="Top" Height="315" Width="448" />    
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" Height="317" HorizontalAlignment="Right" Margin="1,1,0,0" Name="usersTextBlockBorder" VerticalAlignment="Top" Width="194">
+            <TextBlock Name="usersTextBlock" VerticalAlignment="Top" Text="List of current users" Height="275" Width="192" />
+        </Border>
+        <Button Content="Nahuj" Height="23" HorizontalAlignment="Left" Margin="506,283,0,0" Name="nahujFromChatButton" VerticalAlignment="Top" Width="75" Click="nahujFromChatButton_Click" />
+        <TextBox Height="200" HorizontalAlignment="Left" Margin="2,319,0,0" Name="inputMessageTextBox" VerticalAlignment="Top" Width="448" />
+        <Button Content="Send" Height="26" HorizontalAlignment="Left" Margin="507,345,0,0" Name="sendMessageButton" VerticalAlignment="Top" Width="74" Click="sendMessageButton_Click" />
+        <Button Content="SEND" Height="26" HorizontalAlignment="Left" Margin="507,385,0,0" Name="sendMessageCAPSButton" VerticalAlignment="Top" Width="74" Click="sendMessageCAPSButton_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+﻿<Window x:Class="PEKA_App.ErrorConnectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Connection error" Height="200" Width="300" Background="DarkGray">
+    <Grid>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="75,31,0,0" Name="errorMessage" Text="Cannot reach the host" VerticalAlignment="Top" Width="124" />
+        <Button Content="Enter address" Height="23" HorizontalAlignment="Left" Margin="25,90,0,0" Name="enterAddressButton" VerticalAlignment="Top" Width="86" Click="enterAddressButton_Click" />
+        <Button Content="Become a host" Height="23" HorizontalAlignment="Left" Margin="169,90,0,0" Name="becomeHostButton" VerticalAlignment="Top" Width="86" Click="becomeHostButton_Click" />
+    </Grid>
+</Window>

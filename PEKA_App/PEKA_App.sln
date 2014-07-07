@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEKA_App", "PEKA_App\PEKA_App.csproj", "{CB46D18A-8BF3-4350-A1DF-C8A6C93481D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB46D18A-8BF3-4350-A1DF-C8A6C93481D1}.Debug|x86.ActiveCfg = Debug|x86
+		{CB46D18A-8BF3-4350-A1DF-C8A6C93481D1}.Debug|x86.Build.0 = Debug|x86
+		{CB46D18A-8BF3-4350-A1DF-C8A6C93481D1}.Release|x86.ActiveCfg = Release|x86
+		{CB46D18A-8BF3-4350-A1DF-C8A6C93481D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
