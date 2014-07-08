@@ -35,10 +35,7 @@ namespace PEKA_App
 
         private void becomeHostButton_Click(object sender, RoutedEventArgs e)
         {
-            //Максимум костылей
-            ChatRoom chatRoom = new ChatRoom();
-            chatRoom.Left = this.Left - 180;
-            chatRoom.Top = this.Top - 200;            
+            ChatRoom chatRoom = new ChatRoom();          
             this.Close();
             Application.Current.MainWindow.Hide();
 

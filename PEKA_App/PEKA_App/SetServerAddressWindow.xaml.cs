@@ -25,10 +25,7 @@ namespace PEKA_App
 
         private void addressSubmitButton_Click(object sender, RoutedEventArgs e)
         {
-            //Woha, kostily-kostiliky
             ChatRoom chatRoom = new ChatRoom();
-            chatRoom.Left = this.Left - 180;
-            chatRoom.Top = this.Top - 200;
             Application.Current.MainWindow.Hide();
             this.Close();
 
